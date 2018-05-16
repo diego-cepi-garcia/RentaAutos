@@ -82,12 +82,12 @@ public class Vehiculos {
 	}
 	
 //*	public String tipoalquilerVehiculos(String t) {
-		if (t.equals("SUV")){
+	//	if (t.equals("SUV")){
 			
-		}
+		//}
 		
 	}
-}
+
 
 
 
