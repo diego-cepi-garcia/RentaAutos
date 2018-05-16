@@ -18,6 +18,8 @@ public class Vehiculos {
 		
 	}
 	
+	
+	
 	public void alquilarVehiculo() {
 		System.out.println(String.format("Marca: %s", marca));
 		System.out.println(String.format("Modelo: %s", modelo));
@@ -79,5 +81,14 @@ public class Vehiculos {
 		this.patente = patente;
 	}
 	
-	
+//*	public String tipoalquilerVehiculos(String t) {
+		if (t.equals("SUV")){
+			
+		}
+		
+	}
 }
+
+
+
+

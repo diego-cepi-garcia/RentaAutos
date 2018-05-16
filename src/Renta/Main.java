@@ -18,6 +18,6 @@ public class Main{
 	suv.setPatente("AB123CD");
 	
 	//vehiculos.alquilarVehiculo();
-	suv.alquilarVehiculo();
+	vehiculos.alquilarVehiculo("SUV");
 	}
 }
