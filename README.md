@@ -20,6 +20,3 @@ CATEGORIA shopcar(trabajo)/benefitcar(bonus)
 
 FIN DE MES REPORTE
 
-
-
-LALALA BORRAME
