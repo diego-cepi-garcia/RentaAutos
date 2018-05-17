@@ -15,8 +15,13 @@ Alta vehiculo:
 PLACA
 FECHA ALTA (patentamiento)
 MODELO
-CATEGORIA shopcar(trabajo)/benefitcar(bonus)
+CATEGORIA jobcar(trabajo)/benefitcar(bonus)
 
 
 FIN DE MES REPORTE
 
+IMPORTANTE BOOTSTRAP
+SERVLET
+.JSP
+
+https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
